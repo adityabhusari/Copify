@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161759847751",
+    "project_id": "copify01",
+    "storage_bucket": "copify01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161759847751:android:84786ded02b4fa19f45862",
+        "android_client_info": {
+          "package_name": "com.example.copyify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXVlafd-MReEuL9e_SsXCpyHw8GnL2-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
